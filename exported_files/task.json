@@ -1,0 +1,21 @@
+{
+	"fdsfsd" : {
+		"by": "asdasdasd",
+		 "status": false,
+		 "task": {
+		"fdsfsd": {
+		"status": false,
+		 "desc": "asdasdasd"
+	},
+	 "fdsfsdad": {
+		"status": false,
+		 "desc": "dsasdasd"
+	}
+	},
+	 "number_of_task": "2",
+	 "reward": {
+	"exp": "12",
+	 "money": "2132"
+	}
+	}
+}
